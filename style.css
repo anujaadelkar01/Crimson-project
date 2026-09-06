@@ -5326,8 +5326,7 @@ ul.right-opts {
 	.profile-card__info {
 		gap: 8px;
 	}
-
-	.profile-card__country {}
+.profile-card__country {}
 }
 
 /* new toc */
@@ -5771,34 +5770,6 @@ td:last-child {
 }
 
 
-/* =========================
-   RESET
-========================= */
-/* 
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-html,
-body {
-  width: 100%;
-  min-height: 100%;
-}
-
-body {
-  font-family:
-    "Noto Sans JP",
-    "Yu Gothic",
-    "Hiragino Kaku Gothic ProN",
-    Meiryo,
-    sans-serif;
-
-  background: #fff8fa;
-  color: #111;
-} */
-
 
 /* =========================
    SECTION
@@ -6157,10 +6128,7 @@ body {
     line-height: 1.7;
   }
 
-  .red-line {
-    margin: 14px auto 20px;
-  }
-
+ 
   .video-wrapper {
     padding: 7px;
 
