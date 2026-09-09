@@ -491,20 +491,24 @@ a.nav-tem:hover span {
   font-weight: 1000;
 }
  
+
+
+
 .doublebox {
   height: 56px;
   width: 809px;
-  margin-top: 60px;
+  margin-top: 20px;
   margin-left: 24%;
-    display: flex;
+  display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 .black {
   height: 56px;
   width: 405px;
-  background-color: black;
+   background-color: black;
   color: white;
   font-weight: 200;
   display: flex;
