@@ -494,13 +494,11 @@ a.nav-tem:hover span {
 .doublebox {
   height: 56px;
   width: 809px;
-  margin-left: 25%;
-  margin-top: 30px;
-  display: flex;
+  margin-top: 60px;
+  margin-left: 24%;
+    display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 8px;
-  overflow: hidden;
 }
 
 .black {
@@ -512,11 +510,11 @@ a.nav-tem:hover span {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* border-top-left-radius: 8px;
-  border-bottom-left-radius: 8px; */
+
 }
 
 .white {
+
   background-color: white;
   height: 56px;
   width: 405px;
@@ -525,10 +523,21 @@ a.nav-tem:hover span {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* border-top-right-radius: 8px;
-  border-bottom-right-radius: 8px; */
+
 }
 
+/* @media (max-width: 768px) {
+  .doublebox {
+    width: 95%;
+    height: auto;
+    flex-direction: column;
+    border: 1px solid black;
+  }
+
+  .black, .white {
+    width: 100%;
+  }
+} */
  
 /* Plans/Cards Section */
 /* .service-section {
